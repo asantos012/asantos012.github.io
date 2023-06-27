@@ -1,13 +1,13 @@
 # Project information
 site_name: Template
-#site_url: http://fconhkd.github.io/
-site_author: fconhkd
+#site_url: http://asantos012.github.io/
+site_author: asantos012
 site_description: >-
-  Um modelo para futuros wikis
+  Wiki do projeto de conscientização acerca de cibersegurança
 
 # Repository
-repo_name: fconhkd.github.io
-repo_url: https://github.com/fconhkd/fconhkd.github.io/
+repo_name: asantos012.github.io
+repo_url: https://github.com/asantos012/asantos012.github.io/
 edit_uri: edit/main/docs
 # edit_uri_template: 'blob/main/docs/{path}'
 
